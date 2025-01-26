@@ -40,7 +40,7 @@ The provided code implements a facial recognition application using Python's Tki
 
 
 ```python
-git clone 
+git clone https://github.com/451646464/Artificial-intelligence.git
 ```
 
 ### Conclusion
